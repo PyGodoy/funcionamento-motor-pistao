@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/motor-pistao-light.html" }
+  ]
+}
